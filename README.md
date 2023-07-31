@@ -10,6 +10,8 @@ The Python Logical Statement Evaluator and Truth Table Generator is a versatile 
 
 4. **System Specifications and Queries:** The app also includes functionalities for system specifications and queries of combinations of universal and existential quantifiers, broadening its utility for more advanced logical operations.
 
+![WhatsApp Image 2023-07-31 at 4 19 57 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/86240303-c03a-4a73-adf9-cb05a3d35b27)
+
 ![WhatsApp Image 2023-07-31 at 4 21 54 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/dbb62e17-c3d6-42d5-8283-43563d502dc1)
 
 ![WhatsApp Image 2023-07-31 at 4 14 18 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/39904f47-d4ff-43ee-8c30-ee0e80e5f152)
@@ -17,8 +19,6 @@ The Python Logical Statement Evaluator and Truth Table Generator is a versatile 
 ![WhatsApp Image 2023-07-31 at 4 17 13 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/54867dcd-6a27-41b6-9f61-ab411902c29f)
 
 ![WhatsApp Image 2023-07-31 at 4 18 26 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/47f96b1f-b492-4142-85c0-ede34c8c8cd3)
-
-![WhatsApp Image 2023-07-31 at 4 19 57 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/86240303-c03a-4a73-adf9-cb05a3d35b27)
 
 ![WhatsApp Image 2023-07-31 at 4 20 25 AM](https://github.com/SHrouk-Hesh/Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application/assets/121517766/2b177813-0aad-4f73-9d54-91a84d86f335)
 
