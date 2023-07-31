@@ -1,2 +1,2 @@
 # Python-Logical-Statement-Evaluator-and-Truth-Table-Generator-application
-The Python Logical SThe application designed to assist users in evaluating logical statements and generating corresponding truth tables. With support for up to five inputs (a, b, c, d, e), users can conveniently input logical propositions and logical connectives in Python format to examine their truth values for all possible combinations of inputs.
+The application designed to assist users in evaluating logical statements and generating corresponding truth tables. With support for up to five inputs (a, b, c, d, e), users can conveniently input logical propositions and logical connectives in Python format to examine their truth values for all possible combinations of inputs.
